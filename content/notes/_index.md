@@ -1,6 +1,6 @@
 ---
 type : "tags"
 layout : "notes"
-title: "Notes"
-subtitle : "Your musings or reading notes"
+title: "Cómics"
+subtitle : "Mis trabajos e historias."
 ---

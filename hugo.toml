@@ -1,6 +1,6 @@
 baseURL = "https://lightbi-beta-demo.netlify.app/"
-locale = "en"
-title = "Lightbi"
+locale = "es"
+title = "Raissa Ozsari"
 theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
@@ -14,6 +14,8 @@ pygmentOptions = "linenos=inline"
 enableRobotsTXT = true
 enableGitInfo = false
 ignoreLogs = ['warning-goldmark-raw-html']
+languageCode = "es"
+defaultContentLanguage = "es"
 
 
 [Params]
@@ -32,15 +34,15 @@ gcse = false
 Lastmod = false
 rss = true 
 pagination = "10"
-description="Your can add your website description here."
+description="Blog de arte y ayuda para nuevos dibujantes y artistas que buscan su camino."
 lunrSearch = true
-previewCardImagePlacement = "bottom"
+previewCardImagePlacement = "top"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile" #blog
-profileWelcomeHeading = "Hi I'm Lightbi"
-profileWelcomeSubHeading = "Welcome to my digital garden!"
-profileShortbio = "I’m passionate about the web platform and love creating for the web. Here, you'll find a mix of long essays, quick notes, and personal reflections on what I’ve learned throughout my journey."
+profileWelcomeHeading = "¡Hola!"
+profileWelcomeSubHeading = "¡Bienvenido a mis pensamientos artísticos!"
+profileShortbio = "Comparto ideas y todo lo que he descubierto en mi camino en el arte, que espero sean de ayuda en el descubrimiento del tuyo."
 profilePhoto = "img/profile/home-profile-pic.jpg"
 
 [pagination]
@@ -49,36 +51,17 @@ pagerSize = 9
 
 
 [Params.Author]
-  name = "Bino Kochumol Varghese"
+  name = "Raissa Ozsari"
   website = "https://www.binovarghese.com/"
   authorInfo = "Give everything for your dreams."
   authorPostImage = "/img/author-post-img.jpg"
-  facebook = "username"
-  instagram = "username"
+  facebook = "OzsariRaissa"
+  instagram = "RaissaOzsari"
   youtube = "user/username" # or channel/channelname
-  twitter = "username"
-  linkedin = "username"
-  github = "username"
-  threads = "username"
-  gitlab = "username"
+  twitter = "RaissaOzsari"
   reddit = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  spotify = "username"
   paypal = "username"
   telegram = "username"
-  mastodon = "url"
-  slack = "username"
-  #bandcamp = "username"
-  #itchio = "username"
-  #vk = "username"
-  #500px = "username"
-  #kaggle = "username"
-  #weibo = "username"
-  #xing = "username"
-  #bitbucket = "username"
-  #soundcloud = "username"
-  # codepen = "username"
 
 [sitemap]
   changefreq = "monthly"
