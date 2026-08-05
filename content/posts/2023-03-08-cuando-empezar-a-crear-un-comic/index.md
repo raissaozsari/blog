@@ -2,10 +2,8 @@
 date: 2023-03-08 01:48:00+01:00
 title: ¿Cuándo empezar a crear un cómic?
 url: /2023/03/08/cuando-empezar-a-crear-un-comic/
-tags:
-- comic
-- creatividad
-- webtoon
+image: /header.jpg
+tags: ["creatividad","webtoon","comic"]
 ---
 
 De seguro te encuentras esperando el *momento adecuado* para ponerte a crear esa historia.
@@ -31,11 +29,11 @@ Aunque esas historias podríamos catalogarlas de fracaso, en realidad, si ves ca
 
  
 
-[![](/images/posts/thmb2.jpg "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeNFtOc4duJi3y8KZnHakDEJwabw-QULWGIKKN7SYQlW0xZGu0hJkfRXRyTs5voDPn2mUIDN5y63KZbxrYRlZt0ciwy-UEPCzc4KwzEdRb8FSglrugInpnExdT5IlSlNTGE-clpAF56JbeXtdl2tYhwI9oI6YisgCcm4jrpaKpf3Woj73XispIvkOwmix/s1600/thmb2.jpg")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpeNFtOc4duJi3y8KZnHakDEJwabw-QULWGIKKN7SYQlW0xZGu0hJkfRXRyTs5voDPn2mUIDN5y63KZbxrYRlZt0ciwy-UEPCzc4KwzEdRb8FSglrugInpnExdT5IlSlNTGE-clpAF56JbeXtdl2tYhwI9oI6YisgCcm4jrpaKpf3Woj73XispIvkOwmix/s300/thmb2.jpg)
+![](thmb2.jpg)
 
 El primer intento. Tenía unos personajes y solo deseaba colocarlos en alguna historia. Tan solo tenía en mente la clase de interacción que debían tener, ¡y solo me puse a dibujar!
 
-[![](/images/posts/9.jpg "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMgBS2SEMoqxVT7H7KMq8xl7qZZHljYf-MFlHoAvUXZeBdBOFWRZEqP0nrS1oQOH4BN0z6TK8cQ2P-FAE1IcqZLVS9acqu8XoVx0-LBrHT6TiZhHDDqMm3-cGLVRIFZwILYWsyr_tjYCu1GSh6kff_3lPKhF1IWYjoYjkiGvG0Yj3Vaq6NyiNEy2VlIAGI/w250-h400/9.jpg")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMgBS2SEMoqxVT7H7KMq8xl7qZZHljYf-MFlHoAvUXZeBdBOFWRZEqP0nrS1oQOH4BN0z6TK8cQ2P-FAE1IcqZLVS9acqu8XoVx0-LBrHT6TiZhHDDqMm3-cGLVRIFZwILYWsyr_tjYCu1GSh6kff_3lPKhF1IWYjoYjkiGvG0Yj3Vaq6NyiNEy2VlIAGI/s1280/9.jpg)
+![](9.jpg)
 
 Aquí ya tenía confianza en dibujar un poco mejor, había visto vídeos para aprender a dibujar e intenté con una nueva historia. En esta usé tramado manga, acuarela y lo que ves en imagen. Tenía un mejor objetivo con la historia, pero nunca lo terminé. Sin embargo, aprendí a usar mejor onomatopeyas y muchas cosas más.
 

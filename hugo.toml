@@ -2,7 +2,7 @@ baseURL = "https://raissaozsari.github.io/blog"
 locale = "es"
 title = "Raissa Ozsari"
 theme = "lightbi-hugo"
-summaryLength  = "30"
+summaryLength  = "12"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -36,14 +36,15 @@ rss = true
 pagination = "10"
 description="Blog de arte y ayuda para nuevos dibujantes y artistas que buscan su camino."
 lunrSearch = true
-previewCardImagePlacement = "top"
+previewCardImagePlacement = "middle"
 hidePostImage = false
-tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
+tagSubtitle = "Todos los posts con la etiqueta seleccionada."
 homepageLayout = "profile" #blog
 profileWelcomeHeading = "¡Hola!"
 profileWelcomeSubHeading = "¡Bienvenido a mis pensamientos artísticos!"
 profileShortbio = "Comparto ideas y todo lo que he descubierto en mi camino en el arte, que espero sean de ayuda en el descubrimiento del tuyo."
 profilePhoto = "img/profile/home-profile-pic.jpg"
+showPostImage = true
 
 [pagination]
 pagerSize = 9
@@ -52,16 +53,13 @@ pagerSize = 9
 
 [Params.Author]
   name = "Raissa Ozsari"
-  website = "https://www.binovarghese.com/"
-  authorInfo = "Give everything for your dreams."
+  website = "https://raissaozsari.github.io/blog/"
+  authorInfo = "Artista digital."
   authorPostImage = "/img/author-post-img.jpg"
   facebook = "OzsariRaissa"
   instagram = "RaissaOzsari"
-  youtube = "user/username" # or channel/channelname
+  youtube = "@raissaozsari" # or channel/channelname
   twitter = "RaissaOzsari"
-  reddit = "username"
-  paypal = "username"
-  telegram = "username"
 
 [sitemap]
   changefreq = "monthly"
@@ -70,7 +68,7 @@ pagerSize = 9
 
 
 [[menu.main]]
-    name = "Home"
+    name = "Inicio"
     url = "/"
     weight = 1
 
@@ -80,8 +78,8 @@ pagerSize = 9
     weight = 2
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
+    name = "Comics"
+    url = "/comics/"
     weight = 3
 
 [[menu.main]]

@@ -15,9 +15,9 @@
 			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Prueba Bundle</title>
-				<link>http://localhost:1313/blog/notes/prueba-bundle/</link>
+				<link>http://localhost:1313/blog/comics/prueba-bundle/</link>
 				<pubDate>Tue, 04 Aug 2026 18:45:38 -0500</pubDate>
-				<guid>http://localhost:1313/blog/notes/prueba-bundle/</guid>
+				<guid>http://localhost:1313/blog/comics/prueba-bundle/</guid>
 				<description>&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
@@ -25,13 +25,13 @@
 				<link>http://localhost:1313/blog/2023/03/08/cuando-empezar-a-crear-un-comic/</link>
 				<pubDate>Wed, 08 Mar 2023 01:48:00 +0100</pubDate>
 				<guid>http://localhost:1313/blog/2023/03/08/cuando-empezar-a-crear-un-comic/</guid>
-				<description>&lt;p&gt;De seguro te encuentras esperando el &lt;em&gt;momento adecuado&lt;/em&gt; para ponerte a crear esa historia.&lt;/p&gt;&#xA;&lt;p&gt;Estás cada día diciéndote: &lt;em&gt;comenzaré a dibujar cuando haya aprendido anatomía, todavía no soy bueno. Nunca he hecho esto, primero aprenderé a contar historias. Nadie lo leerá, me dirán que soy malo con esto.&lt;/em&gt;&#xA;Puede que algunas cosas ya las estés aprendiendo, ¡eso es bueno! O peor aún, solo son excusas y nunca te dispones a aprender porque no ves un avance. Hay muchas razones más, pero aún estás esperando ese mágico momento para ponerte a trabajar en tu historia.&#xA;Esperas una señal que te diga: &lt;em&gt;no, aún te falta aprender esto&lt;/em&gt; o, &lt;em&gt;¡vamos, ya es hora!&lt;/em&gt;&lt;/p&gt;</description>
+				<description>&lt;p&gt;De seguro te encuentras esperando el &lt;em&gt;momento adecuado&lt;/em&gt; para ponerte a crear esa historia.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Supports better organization of ideas</title>
-				<link>http://localhost:1313/blog/notes/note-6/</link>
+				<link>http://localhost:1313/blog/comics/note-6/</link>
 				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/notes/note-6/</guid>
+				<guid>http://localhost:1313/blog/comics/note-6/</guid>
 				<description>&lt;p&gt;Note-taking helps structure information logically, making complex topics easier to break down, review, and connect — especially useful for studying, writing, or planning.&lt;/p&gt;</description>
 			</item>
 	</channel>
