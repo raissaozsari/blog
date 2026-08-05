@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cómics on Raissa Ozsari</title>
-		<link>http://localhost:1313/notes/</link>
+		<link>http://localhost:1313/blog/notes/</link>
 		<description>Recent content in Cómics on Raissa Ozsari</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Tue, 04 Aug 2026 18:45:38 -0500</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blog/notes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Prueba Bundle</title>
-				<link>http://localhost:1313/notes/prueba-bundle/</link>
+				<link>http://localhost:1313/blog/notes/prueba-bundle/</link>
 				<pubDate>Tue, 04 Aug 2026 18:45:38 -0500</pubDate>
-				<guid>http://localhost:1313/notes/prueba-bundle/</guid>
+				<guid>http://localhost:1313/blog/notes/prueba-bundle/</guid>
 				<description>&lt;p&gt;&lt;img src=&#34;01.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Supports better organization of ideas</title>
-				<link>http://localhost:1313/notes/note-6/</link>
+				<link>http://localhost:1313/blog/notes/note-6/</link>
 				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/notes/note-6/</guid>
+				<guid>http://localhost:1313/blog/notes/note-6/</guid>
 				<description>&lt;p&gt;Note-taking helps structure information logically, making complex topics easier to break down, review, and connect — especially useful for studying, writing, or planning.&lt;/p&gt;</description>
 			</item>
 	</channel>
