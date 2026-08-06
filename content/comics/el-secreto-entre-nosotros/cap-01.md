@@ -4,7 +4,7 @@ date: 2023-02-22
 lastmod : 
 tags: ["ideas", "comics"]
 image : "/cover.jpg"
-description: "Primer capítulo."
+description: "Primer capítulo de prueba."
 draft: 
 ---
 Imagensinis.
