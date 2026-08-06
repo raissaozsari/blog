@@ -1,0 +1,25 @@
+{{ $img := false }}
+
+{{ if .Params.image }}
+
+    {{ with .Resources.Get .Params.image }}
+        {{ $img = . }}
+    {{ end }}
+
+    {{ if not $img }}
+        {{ with .Parent }}
+            {{ with .Resources.Get $.Params.image }}
+                {{ $img = . }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{ if not $img }}
+        {{ with resources.Get .Params.image }}
+            {{ $img = . }}
+        {{ end }}
+    {{ end }}
+
+{{ end }}
+
+{{ return $img }}

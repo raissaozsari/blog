@@ -1,9 +1,9 @@
 ---
-Title: Supports better organization of ideas
-Date: 2023-02-22
+Title: Anemoia
+Date: 2023-02-23
 Lastmod : 
-Tags: ["ideas", "notes"]
-Image : ""
+Tags: ["anemoia", "comics",]
+Image : "cover.jpg"
 Description: "Note the lorum ipsum."
 Draft: 
 ---
