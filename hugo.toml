@@ -53,9 +53,9 @@ pagerSize = 9
 
 [Params.Author]
   name = "Raissa Ozsari"
-  website = "https://raissaozsari.github.io/blog/"
+  website = "https://raissaozsari.carrd.co"
   authorInfo = "Artista digital."
-  authorPostImage = "/img/author-post-img.jpg"
+  authorPostImage = "/img/profile/home-profile-pic.jpg"
   facebook = "OzsariRaissa"
   instagram = "RaissaOzsari"
   youtube = "@raissaozsari" # or channel/channelname
@@ -81,6 +81,18 @@ pagerSize = 9
     name = "Comics"
     url = "/comics/"
     weight = 3
+
+[[menu.main]]
+name = "Anemoia"
+parent = "Comics"
+url = "/comics/anemoia/"
+weight = 1
+
+[[menu.main]]
+name = "El secreto entre nosotros"
+parent = "Comics"
+url = "/comics/el-secreto-entre-nosotros/"
+weight = 2
 
 [[menu.main]]
     name = "Tags"

@@ -1,0 +1,143 @@
+/* ==========================================
+   PALETA - MODO CLARO
+========================================== */
+
+:root {
+    --color-primary: #5b4f47;
+    --color-primary-dark: #433933;
+
+    --color-accent: #dba813;
+
+    --color-text: #2d2724;
+    --color-heading: #201b19;
+    --color-subtle: #6f645d;
+
+    --color-bg: #fcfaf8;
+    --color-bg-muted: #f6f1eb;
+
+    --color-border: #ddcdbd;
+    --color-section-primary-bg: #f6f1eb;
+
+    --color-underline: rgba(91,79,71,.25);
+}
+
+/* ==========================================
+   BOOTSTRAP
+========================================== */
+
+.btn-success,
+.bg-success{
+    background: var(--color-primary) !important;
+    border-color: var(--color-primary) !important;
+}
+
+.btn-success:hover,
+.btn-success:focus{
+    background: var(--color-primary-dark) !important;
+    border-color: var(--color-primary-dark) !important;
+}
+
+.text-success{
+    color: var(--color-primary) !important;
+}
+
+.border-success{
+    border-color: var(--color-primary) !important;
+}
+
+
+/* ==========================================
+   ENLACES
+========================================== */
+
+a:hover{
+    color: var(--color-primary);
+}
+
+p a:hover{
+    text-decoration-color: var(--color-primary);
+}
+
+::selection{
+    background: var(--color-accent);
+    color:white;
+}
+
+::-moz-selection{
+    background: var(--color-accent);
+    color:white;
+}
+
+/* ==========================================
+   DARK MODE
+========================================== */
+
+[data-theme="dark"]{
+
+    --color-primary:#bd9479;
+    --color-primary-dark:#e4d0b8;
+
+    --color-accent:#dba813;
+
+    --color-text:#ece6df;
+    --color-heading:#f7f3ef;
+    --color-subtle:#b8aca2;
+
+    --color-bg:#1f1a18;
+    --color-bg-muted:#2a2421;
+
+    --color-border:#514640;
+
+    --color-section-primary-bg:#2a2421;
+
+    --bs-link-color-rgb:189,148,121;
+    --bs-link-hover-color-rgb:228,208,184;
+
+    --bs-body-bg:#1f1a18;
+    --bs-card-bg:#2a2421;
+    --bs-secondary-bg:#2a2421;
+}
+
+[data-theme="dark"] .navbar {
+  background-color: var(--color-bg-muted)!important;
+  box-shadow: 0 1px 0 #30363d;
+}
+
+[data-theme="dark"] .btn-success,
+[data-theme="dark"] .bg-success{
+
+    background:var(--color-primary)!important;
+    border-color:var(--color-primary)!important;
+}
+
+[data-theme="dark"] .btn-success:hover{
+
+    background:var(--color-primary-dark)!important;
+    border-color:var(--color-primary-dark)!important;
+}
+
+/* ==========================================
+   FOOTER
+========================================== */
+
+footer {
+    background: var(--color-bg-muted) !important;
+    border-top: 1px solid var(--color-border) !important;
+    color: var(--color-subtle);
+}
+
+footer a {
+    color: var(--color-subtle);
+}
+
+footer a:hover {
+    color: var(--color-primary);
+}
+
+/* ==========================================
+   CARDS
+========================================== */
+
+.post-title {
+  color: var(--color-primary) !important; 
+}
