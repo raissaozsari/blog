@@ -1,6 +1,6 @@
 ---
 layout: "list"
-image: "cover.jpg"
+image: "Thumbs.webp"
 title: "Anemoia"
 subtitle : ""
 ---
