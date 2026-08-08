@@ -1,9 +1,9 @@
 ---
-title: Capítulo 0
+title: Capítulo 1
 date: 2023-03-08
 tags: ["mis trabajos", "el secreto entre nosotros"]
 image : Thumbs.webp
-description: El secreto entre nosotros - Capítulo 0
+description: El secreto entre nosotros - Capítulo 1
 ---
 •❅──────✧❅✦❅✧──────❅•
 
