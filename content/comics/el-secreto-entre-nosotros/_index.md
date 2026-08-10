@@ -1,6 +1,6 @@
 ---
 layout: "list"
-image: "cover.jpg"
+image: "cover.webp"
 title: "El secreto entre nosotros"
 subtitle : ""
 
