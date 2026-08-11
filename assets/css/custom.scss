@@ -141,3 +141,34 @@ footer a:hover {
 .post-title {
   color: var(--color-primary) !important; 
 }
+
+
+
+/* ==========================================
+   COMENTARIOS
+========================================== */
+
+.comments-section {
+  width: 100%;
+  margin: 3rem 0;
+}
+
+#cusdis_thread {
+  width: 100%;
+  min-height: 420px;
+}
+
+#cusdis_thread iframe {
+  width: 100% !important;
+  min-height: 300px !important;
+  height: 400px !important;
+  border: 0;
+}
+
+.img-fluid {
+    border-radius: 15px;
+}
+
+/*.header-img {
+    background-image: url("img/header.png");
+}*/
