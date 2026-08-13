@@ -33,17 +33,3 @@ Y antes de que se me olvide, recuerda que muchas de las cosas llegan a ser **su
 Yo no tengo la última palabra, en el arte nadie la tiene, así que algunas cosas es mejor no tomarlas tan a pecho, si crees que una u otra opción es mejor para ti, tú eres el único que lo sabe. Cada autor y obra es un mundo aparte, me encantaría poder ayudar de modo tan específico, por lo que aquí hablamos de un modo más general que pueda ayudar a todos.  
   
 Recuerda que puedes [contactarme](https://raissaozsari.carrd.co) si tienes alguna duda en específico o si deseas que te asesore 🥰 Estaré siempre encantada de poder echarte una mano, ¡diviértete creando!
----
-
-### Comments
-
-> Author: ¿Cuándo empezar a crear un cómic? &#8211; Raissa Ozsari<br>
-> Date: 2024-01-29 14:45:44
-
-[&#8230;] se aprende. Ya te mencioné que no esperes crear una mega obra a la primera, y que es mejor comenzar con una historia corta. Sabrás que parte del proceso consiste crear un borrador del cómic y que este va cambiando con el [&#8230;]
-
-> Author: Consejos a tener en cuenta ANTES de hacer tu cómic. &#8211; Raissa Ozsari<br>
-> Date: 2024-03-07 19:41:33
-
-[&#8230;] todo esto tienes que hacerlo tú solo. Eso sí, si es de tus primeras obras, lo mejor es que sea una corta y de idea simple que puedas desarrollar, quizá, en menos de un año. Un one-shot sería ideal, o [&#8230;]
-
