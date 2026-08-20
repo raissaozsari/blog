@@ -176,3 +176,22 @@ footer a:hover {
 /*.header-img {
     background-image: url("img/header.png");
 }*/
+
+.social-sidebar {
+  position: sticky;
+  top: 100px;
+}
+
+.social-sidebar h3 {
+  margin-bottom: 1rem;
+}
+
+.social-sidebar .commonninja_component {
+  width: 100%;
+}
+
+.widget-sidebar-title {
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+}

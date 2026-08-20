@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $showToc := false }}
 {{ if and (ne .Site.Params.toc false) (ne .Params.toc false) .TableOfContents }}
-  {{ $showToc = false }}
+  {{ $showToc = true }}
 {{ end }}
 
 <div class="container" role="main">
@@ -26,20 +26,25 @@
     </div>
     {{ end }}
 
-    <div class="{{ if $showToc }}col-lg-8 offset-lg-1{{ else }}col-lg-8 offset-lg-2{{ end }} col-md-10 offset-md-1 pt-4">
-      <article role="main" class="blog-post">
-        {{ .Content }}
-      </article>
-    </div>
-
-    {{ if $showToc }}
-    <div class="col-lg-3 pt-4 d-none d-lg-block">
-      <div class="toc-sidebar">
-        <p class="toc-sidebar-title">On this page</p>
-        <nav class="toc-nav">{{ .TableOfContents }}</nav>
+      <div class="{{ if $showToc }}col-lg-8 offset-lg-1{{ else }}col-lg-8 offset-lg-2{{ end }} col-md-10 offset-md-1 pt-4">
+        <article role="main" class="blog-post">
+          {{ .Content }}
+        </article>
       </div>
-    </div>
-    {{ end }}
+
+      {{ if $showToc }}
+       <div class="col-lg-3 pt-4 d-none d-lg-block">
+        <div class="toc-sidebar">
+          <p class="toc-sidebar-title">En esta página:</p>
+          <nav class="toc-nav">{{ .TableOfContents }}</nav>
+
+          
+          <p class="widget-sidebar-title">Lo último en Instagram</p>
+          <div>{{ partial "social-widget.html" . }}</div>
+        
+        </div>
+      </div>
+      {{ end }}
 
   </div>
 
